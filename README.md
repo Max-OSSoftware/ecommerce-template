@@ -20,6 +20,8 @@ Open http://localhost:3000 with your browser to see the result.
 
 Rename the file name in the root of the project to .env.local. and add your environment variables.
 
+
+
 - If you have doubts about how to create a database in MongoDB [click here](https://www.mongodb.com/resources/products/fundamentals/create-database).
   
 - If you have doubts about how to obtain Google Auth keys [click here](https://developers.google.com/identity/protocols/oauth2).
